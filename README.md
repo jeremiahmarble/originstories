@@ -8,7 +8,7 @@ Using this to try out basic web dev things:
 3. Download VS Code
 4. Connect VS Code to GitHub repo
 5. First HTML file (static, on localhost)
-6. Select a Javascript framework
+6. Select a Javascript framework (made an ask out to the Twitterverse)
       Typescript
       Angular
       React
